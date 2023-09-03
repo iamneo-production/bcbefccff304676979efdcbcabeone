@@ -91,14 +91,14 @@ body {
     box-sizing: border-box;
     width: 95px;
     height: 40px;
-    border: 1px solid dodgerblue;
+    border: 1px solid rgb(53, 56, 59);
     margin-left: auto;
     border-radius: 8px;
     font-family: Verdana,
       Geneva, Tahoma, sans-serif;
   
     background-color: whitesmoke;
-    color: dodgerblue;
+    color: rgb(40, 42, 44);
     font-size: 20px;
     cursor: pointer;
   }
@@ -107,7 +107,7 @@ body {
   #print {
     font-family: Verdana,
       Geneva, Tahoma, sans-serif;
-    color: dodgerblue;
+    color: rgb(23, 24, 25);
     font-size: 20px;
   }
   
@@ -120,6 +120,6 @@ body {
   #ins {
     font-family: Verdana,Geneva,
             Tahoma, sans-serif;
-    color: dodgerblue;
+    color: rgb(30, 31, 33);
   }
   
